@@ -1,0 +1,25 @@
+body {
+	background-color: wheat;
+}
+fieldset {
+	border: 1px solid #dedede;
+}
+
+legend {
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.error {
+	color: red;
+}
+
+.resltTable {
+	width: 50%;
+	border-collapse: collapse;
+	border-spacing: 0px;
+}
+
+.resltTable td, .resltTable th {
+	border: 1px solid #565454;
+}
